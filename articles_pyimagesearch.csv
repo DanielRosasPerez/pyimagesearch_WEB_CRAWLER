@@ -1,0 +1,154 @@
+ARTICLE,DATE,URL
+Building image pairs for siamese networks with Python,"November 23, 2020",https://www.pyimagesearch.com/2020/11/23/building-image-pairs-for-siamese-networks-with-python/
+OpenCV Face Recognition,"September 24, 2018",https://www.pyimagesearch.com/2018/09/24/opencv-face-recognition/
+"Face recognition with OpenCV, Python, and deep learning","June 18, 2018",https://pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+"An interview with Davis King, creator of the dlib toolkit","March 13, 2017",https://pyimagesearch.com/2017/03/13/an-interview-with-davis-king-creator-of-the-dlib-toolkit/
+"Install dlib (the easy, complete guide)","January 22, 2018",https://pyimagesearch.com/2018/01/22/install-dlib-easy-complete-guide/
+"Eye blink detection with OpenCV, Python, and dlib","April 24, 2017",https://pyimagesearch.com/2017/04/24/eye-blink-detection-opencv-python-dlib/
+"Real-time facial landmark detection with OpenCV, Python, and dlib","April 17, 2017",https://pyimagesearch.com/2017/04/17/real-time-facial-landmark-detection-opencv-python-dlib/
+"Facial landmarks with dlib, OpenCV, and Python","April 3, 2017",https://pyimagesearch.com/2017/04/03/facial-landmarks-dlib-opencv-python/
+How to install dlib,"March 27, 2017",https://pyimagesearch.com/2017/03/27/how-to-install-dlib/
+Histogram of Oriented Gradients and Object Detection,"November 10, 2014",https://pyimagesearch.com/2014/11/10/histogram-oriented-gradients-object-detection/
+"Detect eyes, nose, lips, and jaw with dlib, OpenCV, and Python","April 10, 2017",https://pyimagesearch.com/2017/04/10/detect-eyes-nose-lips-jaw-dlib-opencv-python/
+Transparent overlays with OpenCV,"March 7, 2016",https://pyimagesearch.com/2016/03/07/transparent-overlays-with-opencv/
+Unifying picamera and cv2.VideoCapture into a single class with OpenCV,"January 4, 2016",https://pyimagesearch.com/2016/01/04/unifying-picamera-and-cv2-videocapture-into-a-single-class-with-opencv/
+Increasing webcam FPS with Python and OpenCV,"December 21, 2015",https://pyimagesearch.com/2015/12/21/increasing-webcam-fps-with-python-and-opencv/
+Increasing Raspberry Pi FPS with Python and OpenCV,"December 28, 2015",https://pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/
+Accessing the Raspberry Pi Camera with OpenCV and Python,"March 30, 2015",https://pyimagesearch.com/2015/03/30/accessing-the-raspberry-pi-camera-with-opencv-and-python/
+OpenCV and Python K-Means Color Clustering,"May 26, 2014",https://pyimagesearch.com/2014/05/26/opencv-python-k-means-color-clustering/
+How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes,"September 1, 2014",https://pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/
+4 Point OpenCV getPerspective Transform Example,"August 25, 2014",https://pyimagesearch.com/2014/08/25/4-point-opencv-getperspective-transform-example/
+Building a Pokedex in Python: OpenCV and Perspective Warping (Step 5 of 6),"May 5, 2014",https://pyimagesearch.com/2014/05/05/building-pokedex-python-opencv-perspective-warping-step-5-6/
+Building a Pokedex in Python: Finding the Game Boy Screen (Step 4 of 6),"April 21, 2014",https://pyimagesearch.com/2014/04/21/building-pokedex-python-finding-game-boy-screen-step-4-6/
+Building a Pokedex in Python: Getting Started (Step 1 of 6),"March 10, 2014",https://pyimagesearch.com/2014/03/10/building-pokedex-python-getting-started-step-1-6/
+Building a Pokedex in Python: Scraping the Pokemon Sprites (Step 2 of 6),"March 24, 2014",https://pyimagesearch.com/2014/03/24/building-pokedex-python-scraping-pokemon-sprites-step-2-6/
+Building a Pokedex in Python: Indexing our Sprites using Shape Descriptors (Step 3 of 6),"April 7, 2014",https://pyimagesearch.com/2014/04/07/building-pokedex-python-indexing-sprites-using-shape-descriptors-step-3-6/
+Hobbits and Histograms – A How-To Guide to Building Your First Image Search Engine in Python,"January 27, 2014",https://pyimagesearch.com/2014/01/27/hobbits-and-histograms-a-how-to-guide-to-building-your-first-image-search-engine-in-python/
+Clever Girl: A Guide to Utilizing Color Histograms for Computer Vision and Image Search Engines,"January 22, 2014",https://pyimagesearch.com/2014/01/22/clever-girl-a-guide-to-utilizing-color-histograms-for-computer-vision-and-image-search-engines/
+"Python, argparse, and command line arguments","March 12, 2018",https://pyimagesearch.com/2018/03/12/python-argparse-command-line-arguments/
+Face detection with OpenCV and deep learning,"February 26, 2018",https://pyimagesearch.com/2018/02/26/face-detection-with-opencv-and-deep-learning/
+Deep Learning with OpenCV,"August 21, 2017",https://pyimagesearch.com/2017/08/21/deep-learning-with-opencv/
+macOS: Install OpenCV 3 and Python 3.5,"December 5, 2016",https://pyimagesearch.com/2016/12/05/macos-install-opencv-3-and-python-3-5/
+macOS: Install OpenCV 3 and Python 2.7,"November 28, 2016",https://pyimagesearch.com/2016/11/28/macos-install-opencv-3-and-python-2-7/
+Accessing RPi.GPIO and GPIO Zero with OpenCV + Python,"May 2, 2016",https://pyimagesearch.com/2016/05/02/accessing-rpi-gpio-and-gpio-zero-with-opencv-python/
+Detecting cats in images with OpenCV,"June 20, 2016",https://pyimagesearch.com/2016/06/20/detecting-cats-in-images-with-opencv/
+Image Pyramids with Python and OpenCV,"March 16, 2015",https://pyimagesearch.com/2015/03/16/image-pyramids-with-python-and-opencv/
+I just open sourced my personal imutils package: A series of OpenCV convenience functions.,"February 2, 2015",https://pyimagesearch.com/2015/02/02/just-open-sourced-personal-imutils-package-series-opencv-convenience-functions/
+Install OpenCV 3.0 and Python 3.4+ on Ubuntu,"July 20, 2015",https://pyimagesearch.com/2015/07/20/install-opencv-3-0-and-python-3-4-on-ubuntu/
+Install OpenCV 3.0 and Python 2.7+ on Ubuntu,"June 22, 2015",https://pyimagesearch.com/2015/06/22/install-opencv-3-0-and-python-2-7-on-ubuntu/
+Install OpenCV 3.0 and Python 2.7+ on OSX,"June 15, 2015",https://pyimagesearch.com/2015/06/15/install-opencv-3-0-and-python-2-7-on-osx/
+OpenCV 3.0 released — and the coming changes to the PyImageSearch blog.,"June 8, 2015",https://pyimagesearch.com/2015/06/08/opencv-3-0-released-and-the-coming-changes-to-the-pyimagesearch-blog/
+Ubuntu 16.04: How to install OpenCV,"October 24, 2016",https://pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
+Where did SIFT and SURF go in OpenCV 3?,"July 16, 2015",https://pyimagesearch.com/2015/07/16/where-did-sift-and-surf-go-in-opencv-3/
+Install OpenCV 3 on macOS with Homebrew (the easy way),"December 19, 2016",https://pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/
+"Resolving macOS, OpenCV, and Homebrew install errors","May 15, 2017",https://pyimagesearch.com/2017/05/15/resolving-macos-opencv-homebrew-install-errors/
+Object detection with deep learning and OpenCV,"September 11, 2017",https://pyimagesearch.com/2017/09/11/object-detection-with-deep-learning-and-opencv/
+Real-time object detection with deep learning and OpenCV,"September 18, 2017",https://pyimagesearch.com/2017/09/18/real-time-object-detection-with-deep-learning-and-opencv/
+Deep learning on the Raspberry Pi with OpenCV,"October 2, 2017",https://pyimagesearch.com/2017/10/02/deep-learning-on-the-raspberry-pi-with-opencv/
+Raspberry Pi: Deep learning object detection with OpenCV,"October 16, 2017",https://pyimagesearch.com/2017/10/16/raspberry-pi-deep-learning-object-detection-with-opencv/
+Optimizing OpenCV on the Raspberry Pi,"October 9, 2017",https://pyimagesearch.com/2017/10/09/optimizing-opencv-on-the-raspberry-pi/
+Deep learning: How OpenCV’s blobFromImage works,"November 6, 2017",https://pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+Faster video file FPS with cv2.VideoCapture and OpenCV,"February 6, 2017",https://pyimagesearch.com/2017/02/06/faster-video-file-fps-with-cv2-videocapture-and-opencv/
+Raspbian + OpenCV pre-configured and pre-installed.,"November 21, 2016",https://pyimagesearch.com/2016/11/21/raspbian-opencv-pre-configured-and-pre-installed/
+Install OpenCV and Python on your Raspberry Pi 2 and B+,"February 23, 2015",https://pyimagesearch.com/2015/02/23/install-opencv-and-python-on-your-raspberry-pi-2-and-b/
+How to install OpenCV 3 on Raspbian Jessie,"October 26, 2015",https://pyimagesearch.com/2015/10/26/how-to-install-opencv-3-on-raspbian-jessie/
+Installing OpenCV 3.0 for both Python 2.7 and Python 3+ on your Raspberry Pi 2,"July 27, 2015",https://pyimagesearch.com/2015/07/27/installing-opencv-3-0-for-both-python-2-7-and-python-3-on-your-raspberry-pi-2/
+"Home surveillance and motion detection with the Raspberry Pi, Python, OpenCV, and Dropbox","June 1, 2015",https://pyimagesearch.com/2015/06/01/home-surveillance-and-motion-detection-with-the-raspberry-pi-python-and-opencv/
+Basic motion detection and tracking with Python and OpenCV,"May 25, 2015",https://pyimagesearch.com/2015/05/25/basic-motion-detection-and-tracking-with-python-and-opencv/
+Running a Python + OpenCV script on reboot,"May 16, 2016",https://pyimagesearch.com/2016/05/16/running-a-python-opencv-script-on-reboot/
+"OpenCV, RPi.GPIO, and GPIO Zero on the Raspberry Pi","May 9, 2016",https://pyimagesearch.com/2016/05/09/opencv-rpi-gpio-and-gpio-zero-on-the-raspberry-pi/
+Ball Tracking with OpenCV,"September 14, 2015",https://pyimagesearch.com/2015/09/14/ball-tracking-with-opencv/
+Checking your OpenCV version using Python,"August 10, 2015",https://pyimagesearch.com/2015/08/10/checking-your-opencv-version-using-python/
+OpenCV Track Object Movement,"September 21, 2015",https://pyimagesearch.com/2015/09/21/opencv-track-object-movement/
+Install guide: Raspberry Pi 3 + Raspbian Jessie + OpenCV 3,"April 18, 2016",https://pyimagesearch.com/2016/04/18/install-guide-raspberry-pi-3-raspbian-jessie-opencv-3/
+Installing OpenCV on your Raspberry Pi Zero,"December 14, 2015",https://pyimagesearch.com/2015/12/14/installing-opencv-on-your-raspberry-pi-zero/
+Remote development on the Raspberry Pi (or Amazon EC2),"July 1, 2019",https://pyimagesearch.com/2019/07/01/remote-development-on-the-raspberry-pi-or-amazon-ec2/
+How to Display a Matplotlib RGB Image,"November 3, 2014",https://pyimagesearch.com/2014/11/03/display-matplotlib-rgb-image/
+Finding Shapes in Images using Python and OpenCV,"October 20, 2014",https://pyimagesearch.com/2014/10/20/finding-shapes-images-using-python-opencv/
+Target acquired: Finding targets in drone and quadcopter video streams using Python and OpenCV,"May 4, 2015",https://pyimagesearch.com/2015/05/04/target-acquired-finding-targets-in-drone-and-quadcopter-video-streams-using-python-and-opencv/
+Removing contours from an image using Python and OpenCV,"February 9, 2015",https://pyimagesearch.com/2015/02/09/removing-contours-image-using-python-opencv/
+Drowsiness detection with OpenCV,"May 8, 2017",https://pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/
+Install dlib on the Raspberry Pi,"May 1, 2017",https://pyimagesearch.com/2017/05/01/install-dlib-raspberry-pi/
+How to (quickly) build a deep learning image dataset,"April 9, 2018",https://pyimagesearch.com/2018/04/09/how-to-quickly-build-a-deep-learning-image-dataset/
+How to create a deep learning dataset using Google Images,"December 4, 2017",https://pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
+Detect and remove duplicate images from a dataset for deep learning,"April 20, 2020",https://www.pyimagesearch.com/2020/04/20/detect-and-remove-duplicate-images-from-a-dataset-for-deep-learning/
+Image hashing with OpenCV and Python,"November 27, 2017",https://www.pyimagesearch.com/2017/11/27/image-hashing-opencv-python/
+OpenCV: Resolving NoneType errors,"December 26, 2016",https://pyimagesearch.com/2016/12/26/opencv-resolving-nonetype-errors/
+pip install opencv,"September 19, 2018",https://www.pyimagesearch.com/2018/09/19/pip-install-opencv/
+How to install OpenCV 4 on Ubuntu,"August 15, 2018",https://pyimagesearch.com/2018/08/15/how-to-install-opencv-4-on-ubuntu/
+Install OpenCV 4 on macOS,"August 17, 2018",https://pyimagesearch.com/2018/08/17/install-opencv-4-on-macos/
+Using computer vision and OCR for immigration document classification (an interview with Vince DiMascio),"February 10, 2021",https://www.pyimagesearch.com/2021/02/10/using-computer-vision-and-ocr-for-immigration-document-classification-an-interview-with-vince-dimascio/
+"Histogram matching with OpenCV, scikit-image, and Python","February 8, 2021",https://www.pyimagesearch.com/2021/02/08/histogram-matching-with-opencv-scikit-image-and-python/
+OpenCV Histogram Equalization and Adaptive Histogram Equalization (CLAHE),"February 1, 2021",https://www.pyimagesearch.com/2021/02/01/opencv-histogram-equalization-and-adaptive-histogram-equalization-clahe/
+OpenCV Image Translation,"February 3, 2021",https://www.pyimagesearch.com/2021/02/03/opencv-image-translation/
+Drawing with OpenCV,"January 27, 2021",https://www.pyimagesearch.com/2021/01/27/drawing-with-opencv/
+"Detecting low contrast images with OpenCV, scikit-image, and Python","January 25, 2021",https://www.pyimagesearch.com/2021/01/25/detecting-low-contrast-images-with-opencv-scikit-image-and-python/
+Splitting and Merging Channels with OpenCV,"January 23, 2021",https://www.pyimagesearch.com/2021/01/23/splitting-and-merging-channels-with-opencv/
+OpenCV Rotate Image,"January 20, 2021",https://www.pyimagesearch.com/2021/01/20/opencv-rotate-image/
+OpenCV Flip Image ( cv2.flip ),"January 20, 2021",https://www.pyimagesearch.com/2021/01/20/opencv-flip-image-cv2-flip/
+OpenCV Load Image (cv2.imread),"January 20, 2021",https://www.pyimagesearch.com/2021/01/20/opencv-load-image-cv2-imread/
+How to build a custom face recognition dataset,"June 11, 2018",https://www.pyimagesearch.com/2018/06/11/how-to-build-a-custom-face-recognition-dataset/
+Scraping images with Python and Scrapy,"October 12, 2015",https://www.pyimagesearch.com/2015/10/12/scraping-images-with-python-and-scrapy/
+k-NN classifier for image classification,"August 8, 2016",https://pyimagesearch.com/2016/08/08/k-nn-classifier-for-image-classification/
+LeNet – Convolutional Neural Network in Python,"August 1, 2016",https://pyimagesearch.com/2016/08/01/lenet-convolutional-neural-network-in-python/
+Convolutions with OpenCV and Python,"July 25, 2016",https://pyimagesearch.com/2016/07/25/convolutions-with-opencv-and-python/
+Blur detection with OpenCV,"September 7, 2015",https://pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
+Installing Keras for deep learning,"July 18, 2016",https://pyimagesearch.com/2016/07/18/installing-keras-for-deep-learning/
+How to install CUDA Toolkit and cuDNN for deep learning,"July 4, 2016",https://pyimagesearch.com/2016/07/04/how-to-install-cuda-toolkit-and-cudnn-for-deep-learning/
+Deep Learning on Amazon EC2 GPU with Python and nolearn,"October 13, 2014",https://pyimagesearch.com/2014/10/13/deep-learning-amazon-ec2-gpu-python-nolearn/
+"My Experience with CUDAMat, Deep Belief Networks, and Python","October 6, 2014",https://pyimagesearch.com/2014/10/06/experience-cudamat-deep-belief-networks-python/
+Getting Started with Deep Learning and Python,"September 22, 2014",https://pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/
+Get off the deep learning bandwagon and get some perspective,"June 9, 2014",https://pyimagesearch.com/2014/06/09/get-deep-learning-bandwagon-get-perspective/
+Compiling OpenCV with CUDA support,"July 11, 2016",https://pyimagesearch.com/2016/07/11/compiling-opencv-with-cuda-support/
+Setting up Ubuntu 16.04 + CUDA + GPU for deep learning with Python,"September 27, 2017",https://pyimagesearch.com/2017/09/27/setting-up-ubuntu-16-04-cuda-gpu-for-deep-learning-with-python/
+Your deep learning + Python Ubuntu virtual machine,"September 22, 2017",https://pyimagesearch.com/2017/09/22/deep-learning-python-ubuntu-virtual-machine/
+Pre-configured Amazon AWS deep learning AMI with Python,"September 20, 2017",https://pyimagesearch.com/2017/09/20/pre-configured-amazon-aws-deep-learning-ami-with-python/
+Configuring Ubuntu for deep learning with Python,"September 25, 2017",https://pyimagesearch.com/2017/09/25/configuring-ubuntu-for-deep-learning-with-python/
+My Top 9 Favorite Python Deep Learning Libraries,"June 27, 2016",https://pyimagesearch.com/2016/06/27/my-top-9-favorite-python-deep-learning-libraries/
+Hands-on with the NVIDIA DIGITS DevBox for Deep Learning,"June 6, 2016",https://pyimagesearch.com/2016/06/06/hands-on-with-the-nvidia-digits-devbox-for-deep-learning/
+Sliding Windows for Object Detection with Python and OpenCV,"March 23, 2015",https://pyimagesearch.com/2015/03/23/sliding-windows-for-object-detection-with-python-and-opencv/
+The complete guide to building an image search engine with Python and OpenCV,"December 1, 2014",https://pyimagesearch.com/2014/12/01/complete-guide-building-image-search-engine-python-opencv/
+"The 3 Types of Image Search Engines: Search by Meta-data, Search by Example, and Hybrid","January 15, 2014",https://pyimagesearch.com/2014/01/15/the-3-types-of-image-search-engines-search-by-meta-data-search-by-example-and-hybrid/
+Building an Image Search Engine: Defining Your Similarity Metric (Step 3 of 4),"February 17, 2014",https://pyimagesearch.com/2014/02/17/building-an-image-search-engine-defining-your-similarity-metric-step-3-of-4/
+Building an Image Search Engine: Defining Your Image Descriptor (Step 1 of 4),"February 3, 2014",https://pyimagesearch.com/2014/02/03/building-an-image-search-engine-defining-your-image-descriptor-step-1-of-4/
+Building an Image Search Engine: Indexing Your Dataset (Step 2 of 4),"February 10, 2014",https://pyimagesearch.com/2014/02/10/building-an-image-search-engine-indexing-your-dataset-step-2-of-4/
+Building an Image Search Engine: Defining Your Image Descriptor (Step 1 of 4),"February 3, 2014",https://pyimagesearch.com/2014/01/29/building-an-image-search-engine-defining-your-image-descriptor-step-1-of-4/
+Charizard Explains How To Describe and Quantify an Image Using Feature Vectors,"March 3, 2014",https://pyimagesearch.com/2014/03/03/charizard-explains-describe-quantify-image-using-feature-vectors/
+How-To: 3 Ways to Compare Histograms using OpenCV and Python,"July 14, 2014",https://pyimagesearch.com/2014/07/14/3-ways-compare-histograms-using-opencv-python/
+Writing to video with OpenCV,"February 22, 2016",https://pyimagesearch.com/2016/02/22/writing-to-video-with-opencv/
+Face Alignment with OpenCV and Python,"May 22, 2017",https://pyimagesearch.com/2017/05/22/face-alignment-with-opencv-and-python/
+How to install TensorFlow 2.0 on Ubuntu,"December 9, 2019",https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-ubuntu/
+How to install TensorFlow 2.0 on macOS,"December 9, 2019",https://pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-macos
+My review of Microsoft’s data science virtual machine (DSVM) for deep learning,"March 21, 2018",https://pyimagesearch.com/2018/03/21/my-review-of-microsofts-deep-learning-virtual-machine/
+Keras vs. tf.keras: What’s the difference in TensorFlow 2.0?,"October 21, 2019",https://pyimagesearch.com/2019/10/21/keras-vs-tf-keras-whats-the-difference-in-tensorflow-2-0/
+"An interview with David Austin: 1st place and $25,000 in Kaggle’s most popular image classification competition","March 26, 2018",https://pyimagesearch.com/2018/03/26/interview-david-austin-1st-place-25000-kaggles-popular-competition/
+PyImageSearch Gurus member spotlight: Tuomo Hiippala,"March 14, 2016",https://pyimagesearch.com/2016/03/14/pyimagesearch-gurus-member-spotlight-tuomo-hiippala/
+PyImageSearch Gurus member spotlight: Saideep Talari,"June 12, 2017",https://pyimagesearch.com/2017/06/12/pyimagesearch-gurus-member-spotlight-saideep-talari/
+How to install TensorFlow 2.0 on macOS,"December 9, 2019",https://www.pyimagesearch.com/2019/12/09/how-to-install-tensorflow-2-0-on-macos/
+"Siamese networks with Keras, TensorFlow, and Deep Learning","November 30, 2020",https://www.pyimagesearch.com/2020/11/30/siamese-networks-with-keras-tensorflow-and-deep-learning/
+"Keras Tutorial: How to get started with Keras, Deep Learning, and Python","September 10, 2018",https://www.pyimagesearch.com/2018/09/10/keras-tutorial-how-to-get-started-with-keras-deep-learning-and-python/
+Resolved: Matplotlib figures not showing up or displaying,"August 24, 2015",https://pyimagesearch.com/2015/08/24/resolved-matplotlib-figures-not-showing-up-or-displaying/
+"ImageNet: VGGNet, ResNet, Inception, and Xception with Keras","March 20, 2017",https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+ImageNet classification with Python and Keras,"August 10, 2016",https://pyimagesearch.com/2016/08/10/imagenet-classification-with-python-and-keras/
+"macOS for deep learning with Python, TensorFlow, and Keras","September 29, 2017",https://pyimagesearch.com/2017/09/29/macos-for-deep-learning-with-python-tensorflow-and-keras/
+How to use Keras fit and fit_generator (a hands-on tutorial),"December 24, 2018",https://www.pyimagesearch.com/2018/12/24/how-to-use-keras-fit-and-fit_generator-a-hands-on-tutorial/
+Why is my validation loss lower than my training loss?,"October 14, 2019",https://www.pyimagesearch.com/2019/10/14/why-is-my-validation-loss-lower-than-my-training-loss/
+An intro to linear classification with Python,"August 22, 2016",https://pyimagesearch.com/2016/08/22/an-intro-to-linear-classification-with-python/
+How to tune hyperparameters with Python and scikit-learn,"August 15, 2016",https://pyimagesearch.com/2016/08/15/how-to-tune-hyperparameters-with-python-and-scikit-learn/
+Softmax Classifiers Explained,"September 12, 2016",https://pyimagesearch.com/2016/09/12/softmax-classifiers-explained/
+Multi-class SVM Loss,"September 5, 2016",https://pyimagesearch.com/2016/09/05/multi-class-svm-loss/
+Fashion MNIST with Keras and Deep Learning,"February 11, 2019",https://pyimagesearch.com/2019/02/11/fashion-mnist-with-keras-and-deep-learning/
+Keras Conv2D and Convolutional Layers,"December 31, 2018",https://pyimagesearch.com/2018/12/31/keras-conv2d-and-convolutional-layers/
+Keras: Multiple outputs and multiple losses,"June 4, 2018",https://pyimagesearch.com/2018/06/04/keras-multiple-outputs-and-multiple-losses/
+Multi-label classification with Keras,"May 7, 2018",https://pyimagesearch.com/2018/05/07/multi-label-classification-with-keras/
+Running Keras models on iOS with CoreML,"April 23, 2018",https://pyimagesearch.com/2018/04/23/running-keras-models-on-ios-with-coreml/
+Keras and Convolutional Neural Networks (CNNs),"April 16, 2018",https://pyimagesearch.com/2018/04/16/keras-and-convolutional-neural-networks-cnns/
+A scalable Keras + deep learning REST API,"January 29, 2018",https://pyimagesearch.com/2018/01/29/scalable-keras-deep-learning-rest-api/
+"Deep learning in production with Keras, Redis, Flask, and Apache","February 5, 2018",https://pyimagesearch.com/2018/02/05/deep-learning-production-keras-redis-flask-apache/
+Image classification with Keras and deep learning,"December 11, 2017",https://pyimagesearch.com/2017/12/11/image-classification-with-keras-and-deep-learning/
+"A fun, hands-on deep learning project for beginners, students, and hobbyists","April 30, 2018",https://pyimagesearch.com/2018/04/30/a-fun-hands-on-deep-learning-project-for-beginners-students-and-hobbyists/
+Keras and deep learning on the Raspberry Pi,"December 18, 2017",https://pyimagesearch.com/2017/12/18/keras-deep-learning-raspberry-pi/
+Saving key event video clips with OpenCV,"February 29, 2016",https://pyimagesearch.com/2016/02/29/saving-key-event-video-clips-with-opencv/
+Capturing mouse click events with Python and OpenCV,"March 9, 2015",https://pyimagesearch.com/2015/03/09/capturing-mouse-click-events-with-python-and-opencv/
+"3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)","October 28, 2019",https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/
+"Comparing images for similarity using siamese networks, Keras, and TensorFlow","December 7, 2020",https://www.pyimagesearch.com/2020/12/07/comparing-images-for-similarity-using-siamese-networks-keras-and-tensorflow/
