@@ -265,7 +265,7 @@ def save_data_products(file_name, content_list):
                 print(f"By the way, the error is the following: \n{e}\n")
 
 ########################################################################################################################
-# ALGORITHM TO FOLLOW:
+# ALGORITHM I CAME UP WITH TO CRAWL AND EXTRACT DATA FROM "pyimagesearch.com":
 """
 1. Select the website we want to scrape on. Then, choose an article to start with.
 2. Extract "title", "date" and "url" from the current article. The articles mustn't be repeated.
@@ -275,12 +275,6 @@ def save_data_products(file_name, content_list):
 4. Crawl every article's link inside the current article.
 5. Repeat the process from 2 to 4 until work with every article and product on the website.
 """
-# TO DO:
-# 0. COMMENT MY CODE IN EVERY STEP. (READY).
-# 1. CLEAN THE PRICE TO JUST RETRIEVE THE NUMBER ITSELF. (READY).
-# 2. CRAWL EVERY LINK STARTING FROM THE MAIN ARTICLE'S SEED URL. (READY).
-# 3. WRITE A CONCLUSION HOW THIS ALGORITHM WORKS IN ORDER TO UNDERSTAND HOW TO TACKLE PROBLEMS, DO THE CODE MORE
-#    EFFICIENTLY AND HOW TO DO ONE OF THIS FROM SCRATCH.
 ########################################################################################################################
 # DEFINING THE WEBSITE DATA NEEDED TO CREATE AN OBJECT WEBSITE:
 
@@ -313,10 +307,6 @@ crawler.crawl(article_seed_url)  # We start to extract data and crawl websites.
 # SAVING DATA:
 save_data_articles("articles_pyimagesearch.csv", articles_stored)
 save_data_products("products_pyimagesearch.csv", products_stored)
-
-########################################################################################################################
-# NOTE: MORE INFO ABOUT SELECTIONS IN PYCHARM AT:
-# https://blog.jetbrains.com/pycharm/2014/09/feature-spotlight-multiple-selections-in-pycharm/
 
 ########################################################################################################################
 print('\r')
