@@ -176,7 +176,7 @@ class Crawler:
                 if url_content not in self.visited_articles:  # Checking whether the url content after the domain has
                     # been visited. If the site has already been visited, we don't proceed, since we only want to visit
                     # every article once.
-                    self.visited_articles.append(url_content)  # Appending every site visited, to avoid visit them twice.
+                    self.visited_articles.append(url_content)  # Appending every visited site, to avoid visit them twice.
                     self.parse(targetPage)  # EXTRACTING THE DATA FROM THE CURRENT ARTICLE.
                     self.crawl(targetPage)  # CRAWLING THROUGH EVERY ARTICLE LINK FOUND.
 
@@ -187,7 +187,7 @@ class Crawler:
                 if url_content not in self.visited_products:  # Checking whether the url content after the domain has
                     # been visited. If the site has already been visited, we don't proceed, since we only want to visit
                     # every product once.
-                    self.visited_products.append(url_content)  # Appending every site visited, to avoid visit them twice.
+                    self.visited_products.append(url_content)  # Appending every visited site, to avoid visit them twice.
                     self.parse(targetPage)  # EXTRACTING THE PRODUCT(S) FROM THE CURRENT ARTICLE.
 
 
